@@ -13,26 +13,5 @@
     <author>作者</author>
     <guid>https://desentao.github.io/theme-documentation-basics/</guid>
     <description><![CDATA[<p>探索 Hugo - <strong>LoveIt</strong> 主题的全部内容和背后的核心概念.</p>]]></description>
-</item><item>
-    <title>主题文档 - 内容</title>
-    <link>https://desentao.github.io/theme-documentation-content/</link>
-    <pubDate>Thu, 05 Mar 2020 16:30:05 &#43;0800</pubDate>
-    <author>作者</author>
-    <guid>https://desentao.github.io/theme-documentation-content/</guid>
-    <description><![CDATA[<p>了解如何在 <strong>LoveIt</strong> 主题中快速, 直观地创建和组织内容.</p>]]></description>
-</item><item>
-    <title>Markdown 基本语法</title>
-    <link>https://desentao.github.io/basic-markdown-syntax/</link>
-    <pubDate>Sun, 01 Dec 2019 21:57:40 &#43;0800</pubDate>
-    <author>作者</author>
-    <guid>https://desentao.github.io/basic-markdown-syntax/</guid>
-    <description><![CDATA[<p>这篇文章提供了可以在 Hugo 的文章中使用的基本 Markdown 语法示例.</p>]]></description>
-</item><item>
-    <title>Emoji 支持</title>
-    <link>https://desentao.github.io/emoji-support/</link>
-    <pubDate>Tue, 01 Oct 2019 17:55:28 &#43;0800</pubDate>
-    <author>作者</author>
-    <guid>https://desentao.github.io/emoji-support/</guid>
-    <description><![CDATA[<p>Emoji 可以通过多种方式在 Hugo 项目中启用.</p>]]></description>
 </item></channel>
 </rss>
