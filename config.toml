@@ -1,4 +1,5 @@
 baseURL = "https://desentao.github.io/"
+# baseURL = "http://localhost:1313/"
 # [en, zh-cn, fr, pl, ...] determines default content language
 # [en, zh-cn, fr, pl, ...] 设置默认的语言
 defaultContentLanguage = "zh-cn"
@@ -200,7 +201,7 @@ enableEmoji = true
       [[languages.zh-cn.menu.main]]
         identifier = "documentation"
         pre = ""
-        name = "文档"
+        name = "主题"
         url = "/categories/documentation/"
         title = ""
         weight = 4
@@ -616,12 +617,12 @@ enableEmoji = true
       Whatsapp = false
       Pinterest = false
       Tumblr = false
-      HackerNews = true
+      HackerNews = false
       Reddit = false
       VK = false
       Buffer = false
       Xing = false
-      Line = true
+      Line = false
       Instapaper = false
       Pocket = false
       Digg = false
@@ -631,7 +632,7 @@ enableEmoji = true
       Renren = false
       Myspace = false
       Blogger = false
-      Baidu = false
+      Baidu = true
       Odnoklassniki = false
       Evernote = false
       Skype = false

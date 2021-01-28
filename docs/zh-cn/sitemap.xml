@@ -2,7 +2,8 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>https://desentao.github.io/theme-documentation-basics/</loc><lastmod>2021-01-27T23:02:32&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://desentao.github.io/%E6%8E%A2%E7%B4%A2hugo-loveit-%E4%B8%BB%E9%A2%98/</loc><lastmod>2020-03-06T21:40:32&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://desentao.github.io/mac%E7%8E%AF%E5%A2%83%E4%BD%BF%E7%94%A8hugo-even-github%E9%83%A8%E7%BD%B2%E6%9C%AC%E7%AB%99/</loc><lastmod>2021-01-01T10:10:10&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url><url>
             <loc>https://desentao.github.io/categories/</loc><lastmod>2021-01-27T23:02:32&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
@@ -16,7 +17,7 @@
                     hreflang="zh-cn"
                     href="https://desentao.github.io/categories/"
                     /></url><url>
-            <loc>https://desentao.github.io/posts/</loc><lastmod>2021-01-27T23:02:32&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://desentao.github.io/posts/</loc><lastmod>2021-01-01T10:10:10&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url><url>
             <loc>https://desentao.github.io/tags/</loc><lastmod>2021-01-27T23:02:32&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
@@ -43,9 +44,10 @@
                     hreflang="zh-cn"
                     href="https://desentao.github.io/"
                     /></url><url>
+            <loc>https://desentao.github.io/tags/%E5%85%B3%E4%BA%8E%E6%9C%AC%E7%AB%99/</loc><lastmod>2021-01-27T23:02:32&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://desentao.github.io/categories/%E5%85%B3%E4%BA%8E%E6%9C%AC%E7%AB%99/</loc><lastmod>2021-01-27T23:02:32&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://desentao.github.io/about/</loc><lastmod>2021-01-27T23:02:32&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://desentao.github.io/tags/content/</loc><lastmod>2021-01-27T23:02:32&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://desentao.github.io/tags/installation/</loc><lastmod>2021-01-27T23:02:32&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://desentao.github.io/tags/%E9%99%B6%E5%BE%B7%E6%A3%AE/</loc><lastmod>2021-01-27T23:02:32&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://desentao.github.io/categories/documentation/</loc><lastmod>2021-01-27T23:02:32&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
@@ -59,4 +61,6 @@
                     hreflang="zh-cn"
                     href="https://desentao.github.io/categories/documentation/"
                     /></url><url>
+            <loc>https://desentao.github.io/tags/content/</loc><lastmod>2021-01-27T23:02:32&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://desentao.github.io/tags/installation/</loc><lastmod>2021-01-27T23:02:32&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://desentao.github.io/tags/configuration/</loc><lastmod>2021-01-27T23:02:32&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url></urlset>
